@@ -15,9 +15,7 @@
 - :school: I am a `self-taught` programmer working at [Orium Games](https://github.com/orgs/OriumGames).
 - :technologist: I love `Problems`.
 - :computer: Since 2017, I've been actively working with software technologies through self-teaching (mostly).
-- :student: I intend to thoroughly understand and learn `Computer Science` and `Software Engineering` (well, I don't know when).
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, TODO.
 <br>
 
 <!--
